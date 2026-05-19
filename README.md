@@ -1,4 +1,4 @@
-# Customer Behavior Data Analyst Portfolio Project
+# Customer Behavior Analysis
 ## Overview
 This project demonstrates an end-to-end Data Analytics workflow, starting from raw dataset processing to interactive business insights visualization. The project includes data loading using Python, Exploratory Data Analysis (EDA), data cleaning, SQL-based analysis using relational databases, and dashboard creation in Power BI. Final insights were documented through a professional report and presentation.
 
